@@ -5,7 +5,7 @@ Hi, I'm **Ansh Sharma** a developer who builds full-stack mobile and backend sys
 - 📱 **Android** (Kotlin, Jetpack Compose, MVVM/MVI, Clean Architecture, Hilt, Coroutines)
 - ⚙️ **Backend** (Spring Boot, PostgreSQL + PostGIS, Kafka, Redis, Docker, JWT)
 - 🌍 Building products for real users from India to international markets
-- 🎓 B.Tech | Interning @ KYROS (UK) · Dtag Pvt. Ltd.
+- 🎓 B.Tech | Interning @ KYROS (UK) · Pvt. Ltd.
 - 🔭 Currently working on: **SportsConnect** & **RyzeID**
 
 ---
